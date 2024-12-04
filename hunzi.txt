@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="icon" href="C:\Users\Owner\Desktop\papers for book\olol.webp" type="image/x-icon">
+<title>HUNZA❤️‍🩹</title>
+</head>
+<body>
+<h1 style="font:Ariel;font-size:32pt;color:yellow"><center>HUNZO❤️‍🩹❤️‍🩹</h1>
+<body style="background-color: purple">
+<img src="C:\Users\Owner\Pictures\lol2.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\Karimabad-August-21-2019-26.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\155fb9d0c3c6be8cd36fea205a49d24d.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\1628011152_maxresdefault.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\bc6d5ff622418fa083f3c3a768fe7f2c.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\places-to-visit-in-hunza-5.webp" width="233" height="178">
+<li>Hunza is the most beutifull place in pk</li>
+<li>Hunza was known as Hunzo</li>
+<li>It has may places to visit</li>
+<p style="font:Ariel;font-size:18pt;color:green">The valley has different beautiful natural sights which are the attractions for tourists. Among these attractions the Baltit and Altit fort are also well known. The Baltit fort, after renovation, has recently been turned into heritage museum. In Hunza, the bazaar of Karimbad is famous for its local handicrafts, handmade rugs, traditional embroidered caps, shawls, hand woven cloth (paffu) and its gemstones which are famous all over the world, particularly Ruby. The Ruby mines are famous tourist attractions.</p>
+<img src="C:\Users\Owner\Desktop\papers for book\lol.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\lol1.jpg" width="250" height="178">
+<img src="C:\Users\Owner\Desktop\papers for book\olol.webp" width="233" height="178" style="float:center">
+<img src="C:\Users\Owner\Pictures\IMG_3489.JPG" width="250" height="178" style="float:center">
+<img src="C:\Users\Owner\Desktop\papers for book\th.jpg" width="250" height="178" style="float:center">
+<img src="C:\Users\Owner\Desktop\papers for book\hn.jpg" width="250" height="178" style="float:center">
+<a href="https://en.wikipedia.org/wiki/Hunza_Valley">MORE ABOUT HUNZO❤️‍🩹</a>
+<a href="file:///C:/Users/Owner/Documents/Minecraft.html">Visit another webpage</a>
+</body>
+</html>
